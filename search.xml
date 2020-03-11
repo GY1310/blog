@@ -4,19 +4,46 @@
   
     
     <entry>
-      <title>该学习啦</title>
-      <link href="/blog/2020/03/11/mould_01/"/>
-      <url>/blog/2020/03/11/mould_01/</url>
+      <title>Web项目</title>
+      <link href="/blog/2020/03/11/web%E9%A1%B9%E7%9B%AE/"/>
+      <url>/blog/2020/03/11/web%E9%A1%B9%E7%9B%AE/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>折腾了这么长时间，终于把这个博客的基本功能给完善了，是时候该学习了。<br><br>前天的软件工程实验，昨天的数据库作业都没做呢，好了，不废话了，要去学习了。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Web课程设计"><a href="#Web课程设计" class="headerlink" title="Web课程设计"></a>Web课程设计</h2><blockquote><p><strong>描述：</strong><br>web期末课程设计<br><strong>访问设备：</strong> 桌面</p></blockquote><ul><li>链接：<a href="http://g_clay.gitee.io/webitem/web_design/main.html">http://g_clay.gitee.io/webitem/web_design/main.html</a></li></ul><hr><h2 id="人文学院主页设计"><a href="#人文学院主页设计" class="headerlink" title="人文学院主页设计"></a>人文学院主页设计</h2><blockquote><p><strong>描述：</strong><br>受原工作小组委托从而自行设计的人文学院主页，一共有两个版本，由于特殊原因均未投入使用。<br><b style="color:#ff4500;">声明：</b><br>利益相关，此页面两版内容均为本人自主设计，且至时今日并未投入运营与使用，最终解释权归本人所有！<br><strong>访问设备：</strong> 桌面</p></blockquote><p>版本：</p><ul><li>版本1：<a href="http://g_clay.gitee.io/webitem/human_culture/human_culture01/index2.html">http://g_clay.gitee.io/webitem/human_culture/human_culture01/index2.html</a></li><li>版本2：<a href="http://g_clay.gitee.io/webitem/human_culture/human_culture02/index2.html">http://g_clay.gitee.io/webitem/human_culture/human_culture02/index2.html</a></li></ul><hr><h2 id="华衫科技"><a href="#华衫科技" class="headerlink" title="华衫科技"></a>华衫科技</h2><blockquote><p><strong>描述：</strong><br>jsp程序设计的作业<br><strong>访问设备：</strong> 移动</p></blockquote><ul><li>链接: <a href="http://g_clay.gitee.io/webitem/hskj/01-service.html">http://g_clay.gitee.io/webitem/hskj/01-service.html</a></li></ul>]]></content>
       
+      
+      <categories>
+          
+          <category> 项目 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 随笔 </tag>
+            <tag> HTML </tag>
+            
+            <tag> CSS </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>该学习啦</title>
+      <link href="/blog/2020/03/11/%E9%9A%8F%E7%AC%9401/"/>
+      <url>/blog/2020/03/11/%E9%9A%8F%E7%AC%9401/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>折腾了这么长时间，终于把这个博客的基本功能给完善了，是时候该学习了。<br>前天的软件工程实验，昨天的数据库作业都没做呢，好了，不废话了，要去学习了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -29,6 +56,12 @@
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这里是模板页，是博客头文件的模板"><a href="#这里是模板页，是博客头文件的模板" class="headerlink" title="这里是模板页，是博客头文件的模板"></a>这里是模板页，是博客头文件的模板</h1><!-- ---title: 标题date: 日期updated: 更新日期tags: 标签categories: 显示分类keywords: 密码top: true 是否置顶description: 概要top_img: （除非特定需要，可以不写）顶部图comments  是否显示评论（除非设置false,可以不写）cover:  封面缩略图toc:  是否显示toc （除非特定文章设置，可以不写）toc_number: 是否显示toc数字 （除非特定文章设置，可以不写）copyright: 是否显示版权 （除非特定文章设置，可以不写）mathjax:katex:hide:  隐藏属性--- -->]]></content>
       
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
       
       
         <tags>
@@ -70,14 +103,14 @@
       
       <categories>
           
-          <category> java </category>
+          <category> 数据结构 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 数据结构 </tag>
+            <tag> java </tag>
             
         </tags>
       
@@ -95,14 +128,14 @@
       
       <categories>
           
-          <category> java </category>
+          <category> 基础语法 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> java语法 </tag>
+            <tag> java </tag>
             
         </tags>
       
@@ -120,14 +153,14 @@
       
       <categories>
           
-          <category> java </category>
+          <category> 基础语法 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> java语法 </tag>
+            <tag> java </tag>
             
         </tags>
       
@@ -145,14 +178,14 @@
       
       <categories>
           
-          <category> java </category>
+          <category> 基础语法 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> java语法 </tag>
+            <tag> java </tag>
             
         </tags>
       
@@ -170,14 +203,14 @@
       
       <categories>
           
-          <category> java </category>
+          <category> 基础语法 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> java语法 </tag>
+            <tag> java </tag>
             
         </tags>
       
