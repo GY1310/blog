@@ -100,6 +100,31 @@
     
     
     <entry>
+      <title>啦啦啦啦啦啦我有来测试了</title>
+      <link href="/blog/2020/03/10/mould%20-%20%E5%89%AF%E6%9C%AC/"/>
+      <url>/blog/2020/03/10/mould%20-%20%E5%89%AF%E6%9C%AC/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="啦啦啦啦啦啦我有哦来测试了"><a href="#啦啦啦啦啦啦我有哦来测试了" class="headerlink" title="啦啦啦啦啦啦我有哦来测试了"></a>啦啦啦啦啦啦我有哦来测试了</h1><!-- ---title: 标题date: 日期updated: 更新日期tags: 标签categories: 显示分类keywords: 密码top: true 是否置顶description: 概要top_img: （除非特定需要，可以不写）顶部图comments  是否显示评论（除非设置false,可以不写）cover:  封面缩略图toc:  是否显示toc （除非特定文章设置，可以不写）toc_number: 是否显示toc数字 （除非特定文章设置，可以不写）copyright: 是否显示版权 （除非特定文章设置，可以不写）mathjax:katex:hide:  隐藏属性--- -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 示例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>置顶文章测试</title>
       <link href="/blog/2020/03/10/test2/"/>
       <url>/blog/2020/03/10/test2/</url>
