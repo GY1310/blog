@@ -48,7 +48,7 @@
     
     
     <entry>
-      <title>web页面</title>
+      <title>WebDemo</title>
       <link href="/blog/2020/03/10/demo-01/"/>
       <url>/blog/2020/03/10/demo-01/</url>
       
@@ -67,50 +67,6 @@
             <tag> html </tag>
             
             <tag> css </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>模板页</title>
-      <link href="/blog/2020/03/10/mould/"/>
-      <url>/blog/2020/03/10/mould/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这里是模板页，是博客头文件的模板"><a href="#这里是模板页，是博客头文件的模板" class="headerlink" title="这里是模板页，是博客头文件的模板"></a>这里是模板页，是博客头文件的模板</h1><!-- ---title: 标题date: 日期updated: 更新日期tags: 标签categories: 显示分类keywords: 密码top: true 是否置顶description: 概要top_img: （除非特定需要，可以不写）顶部图comments  是否显示评论（除非设置false,可以不写）cover:  封面缩略图toc:  是否显示toc （除非特定文章设置，可以不写）toc_number: 是否显示toc数字 （除非特定文章设置，可以不写）copyright: 是否显示版权 （除非特定文章设置，可以不写）mathjax:katex:hide:  隐藏属性--- -->]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 示例 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>置顶文章测试</title>
-      <link href="/blog/2020/03/10/test2/"/>
-      <url>/blog/2020/03/10/test2/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>经过测试得知：加入<code>top: True</code>属性可以达到文章置顶效果<br>并且该属性还可以使得文章显示置顶图标</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
             
         </tags>
       
@@ -254,25 +210,6 @@
     
     
     <entry>
-      <title>测试</title>
-      <link href="/blog/2020/03/09/test/"/>
-      <url>/blog/2020/03/09/test/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>测试一下是否能够更换封面图片</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>GitHub搭建博客的好处</title>
       <link href="/blog/2020/03/09/%E4%BD%BF%E7%94%A8GitHub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>/blog/2020/03/09/%E4%BD%BF%E7%94%A8GitHub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
@@ -322,6 +259,69 @@
         <tags>
             
             <tag> 示例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>模板页</title>
+      <link href="/blog/2020/03/08/mould/"/>
+      <url>/blog/2020/03/08/mould/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这里是模板页，是博客头文件的模板"><a href="#这里是模板页，是博客头文件的模板" class="headerlink" title="这里是模板页，是博客头文件的模板"></a>这里是模板页，是博客头文件的模板</h1><!-- ---title: 标题date: 日期updated: 更新日期tags: 标签categories: 显示分类keywords: 密码top: true 是否置顶description: 概要top_img: （除非特定需要，可以不写）顶部图comments  是否显示评论（除非设置false,可以不写）cover:  封面缩略图toc:  是否显示toc （除非特定文章设置，可以不写）toc_number: 是否显示toc数字 （除非特定文章设置，可以不写）copyright: 是否显示版权 （除非特定文章设置，可以不写）mathjax:katex:hide:  隐藏属性--- -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 示例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/blog/2020/03/08/test/"/>
+      <url>/blog/2020/03/08/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>测试一下是否能够更换封面图片</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>置顶文章测试</title>
+      <link href="/blog/2020/03/08/test2/"/>
+      <url>/blog/2020/03/08/test2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>经过测试得知：加入<code>top: True</code>属性可以达到文章置顶效果<br>并且该属性还可以使得文章显示置顶图标</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
             
         </tags>
       
